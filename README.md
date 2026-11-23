@@ -10,3 +10,8 @@ github öğrenirken oluşturuğum ilk depo.
 -[ilk programım](kodlar/merhaba.pg)
 
 ![Sakarya ÜNİVERSİTESİ](saü.jpg)
+
+## Hobilerim
+film izlemek
+resim yapmak
+kitap okumak
